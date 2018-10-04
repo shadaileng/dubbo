@@ -21,7 +21,7 @@ public class BootServiceConsumerPriceApplicationTests {
 
         System.out.println(t1002);
 
-//        System.in.read();
+        System.in.read();
     }
 
 }
